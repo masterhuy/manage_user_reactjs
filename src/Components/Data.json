@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "name": "Neymar Junior",
+        "age": 29,
+        "nationality": "Brazil"
+    },
+    {
+        "id":2,
+        "name": "Wayne Rooney",
+        "age": 36,
+        "nationality": "England"
+    },
+    {
+        "id":3,
+        "name": "Frank Lampard",
+        "age": 43,
+        "nationality": "England"
+    },
+    {
+        "id":4,
+        "name": "Lionel Messi",
+        "age": 34,
+        "nationality": "Argentina"
+    },{
+        "id":5,
+        "name": "Cristiano Ronaldo",
+        "age": 36,
+        "nationality": "Portugal"
+    },
+    {
+        "id":6,
+        "name": "Anthony Martial",
+        "age": 26,
+        "nationality": "France"
+    },
+    {
+        "id":7,
+        "name": "Edison Cavani",
+        "age": 34,
+        "nationality": "Urugoay"
+    },
+    {
+        "id":8,
+        "name": "Bruno Fernandes",
+        "age": 26,
+        "nationality": "Portugal"
+    },
+    {
+        "id":9,
+        "name": "Paul Pogba",
+        "age": 28,
+        "nationality": "France"
+    },
+    {
+        "id":10,
+        "name": "Marcus Rashford",
+        "age": 23,
+        "nationality": "England"
+    }
+]
